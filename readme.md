@@ -1,4 +1,5 @@
 # Inheritances By Race
+This code produces the tables found in [Inheritances by Age and Income Group](https://budgetmodel.wharton.upenn.edu/issues/2021/7/16/inheritances-by-age-and-income-group), released in July 2021. The inputs include a CPI-u series and select variables from from several years of Survey of Consumer Finances combined into a single CSV file.  
 
 ## Files included:
  - **main.py:** This is the main program.  Options are described below.
